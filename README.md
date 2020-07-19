@@ -52,9 +52,4 @@
   </tbody>
 </table>
 
-## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
-
-![visitors](https://www.html-js.cn)
-
----
 ⭐️ From [doramart](https://github.com/doramart)
