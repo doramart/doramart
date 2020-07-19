@@ -33,7 +33,7 @@
     <tr valign="top">
       <td width="25%" align="center">
         <span>Nodejs</span><br><br><br>
-        <img height="64px" src="hhttps://cdn.svgporn.com/logos/nodejs-icon.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
       </td>
       <td width="25%" align="center">
         <span>React</span><br><br><br>
